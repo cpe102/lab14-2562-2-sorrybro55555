@@ -19,3 +19,6 @@ int main(){
 }
 
 //Write definition of shuffle() here 
+void shuffle(int &a,int &b, int &c, int &d){
+
+}
